@@ -1,0 +1,98 @@
+{
+  "package": "K3-Track3-Lab19-2A202601323-NgoThanhDat_SUBMISSION",
+  "purpose": "Lab 19 completed submission overlay",
+  "runtime_verified_here": false,
+  "reason": "External Neo4j/Groq/HuggingFace credentials are intentionally excluded.",
+  "files": [
+    {
+      "path": ".env.example",
+      "bytes": 484,
+      "sha256": "d6acae19bad8b3b732053061a77e64654d9e29d539a26d0add0cf2a494e4e15d"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 197,
+      "sha256": "9376e16e717e469613faa6c46177fb5989b0dd2ec1d648ff89ccd1fe0d388d16"
+    },
+    {
+      "path": "Day19_GraphRAG_vs_FlatRAG_Production_Lab_Guide.ipynb",
+      "bytes": 107640,
+      "sha256": "c5a79505b4e6a2527598a35fcfad52721343fb3ce52ad8c2fdb000158a93ecb1"
+    },
+    {
+      "path": "OVERLAY_INTO_ORIGINAL_REPO.md",
+      "bytes": 690,
+      "sha256": "268558b15beb5f9f47b4bf5e1646e8a2c67dd5ceaa64c7afbc40f84bce0be10e"
+    },
+    {
+      "path": "README_COMPLETED.md",
+      "bytes": 2252,
+      "sha256": "4e08297682a57788871b168c6371b262c96cbd5f35051dea1e6684c8428592c9"
+    },
+    {
+      "path": "RUN_LAB19.ps1",
+      "bytes": 609,
+      "sha256": "a60d06c2813659ee064102e73a1f1d5cde624b4f13fd5df0c33af9532372bdf8"
+    },
+    {
+      "path": "RUN_LAB19.sh",
+      "bytes": 367,
+      "sha256": "926a17d845cf1f3af37fba141e8d1f75ead1ab6d785740bceb1c74cd6794c324"
+    },
+    {
+      "path": "data/README.md",
+      "bytes": 383,
+      "sha256": "ab4c83650f5299058d6f926a3ac939bc4c8a5c3b2f60f5fa6cfe234fa527bd5b"
+    },
+    {
+      "path": "outputs/README.md",
+      "bytes": 404,
+      "sha256": "32320f2a32fea34c668e05f5d64b76f210dfbf4f40d5e48a0ab79312e4bd9994"
+    },
+    {
+      "path": "reports/failure_analysis.md",
+      "bytes": 107,
+      "sha256": "d5ba11fcd402ecd01253aa7d0c10d4714c36b2eb2c6e1032999ede758aa2d031"
+    },
+    {
+      "path": "reports/lab_report.md",
+      "bytes": 1980,
+      "sha256": "c0d850a498fecc86ffffe5fa380d0974419da5e6292e7a036686b4a5a0ffeeb0"
+    },
+    {
+      "path": "reports/reflection_NgoThanhDat.md",
+      "bytes": 541,
+      "sha256": "4e829ef7c47cdaa13a5c7c5a9afe9a4db556ccad09d72e7effe1d90a4d383a75"
+    },
+    {
+      "path": "reports/technical_defense.md",
+      "bytes": 108,
+      "sha256": "e40b04da9fad2bbe8532142d0e3cce9dcb0e13686368e2e2e81ad3316007b81f"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 146,
+      "sha256": "2a06fa860ea3dd4abe5152d39590c30d208d822a6d56498555f8c2c0c7aa3b05"
+    },
+    {
+      "path": "templates/lab_report.md",
+      "bytes": 1980,
+      "sha256": "c0d850a498fecc86ffffe5fa380d0974419da5e6292e7a036686b4a5a0ffeeb0"
+    },
+    {
+      "path": "tools/generate_reports.py",
+      "bytes": 9925,
+      "sha256": "dd6c61049099919ffa72305a3139a8ee6135b5dcaae359a68b4a1964812f7c45"
+    },
+    {
+      "path": "tools/smoke_services.py",
+      "bytes": 3287,
+      "sha256": "796c3c8abf710e67a8e397466b53b11ecc9dea33daef215ce4ed38497249927a"
+    },
+    {
+      "path": "tools/validate_submission.py",
+      "bytes": 3115,
+      "sha256": "ff8221d722c8386d5884cad7d8850b1dd169ffc9d123729e62623ee10c20ef3e"
+    }
+  ]
+}
